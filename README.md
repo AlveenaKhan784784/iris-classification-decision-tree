@@ -1,4 +1,4 @@
-## iris-classification-decision-tree
+# iris-classification-decision-tree
 
 ## Objective
 The objective of this project is to develop a machine learning model that accurately classifies Iris flower species (Setosa, Versicolor, Virginica) based on four key features:
@@ -11,7 +11,7 @@ The objective of this project is to develop a machine learning model that accura
 - `Sepal Width` (cm): Width of the sepal.
 - `Petal Length` (cm): Length of the petal.
 - `Petal Width` (cm): Width of the petal.
-# Target: Iris species (Setosa, Versicolor, Virginica)
+### Target: Iris species (Setosa, Versicolor, Virginica)
 
 ## Source:
 - The dataset can be found at the [UCI Machine Learning Repository](https://www.kaggle.com/datasets/uciml/iris)
